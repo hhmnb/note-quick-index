@@ -1,0 +1,24 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+.idea/
+.vscode/
+_temp/
+
+# 敏感配置
+config.json
+
+# 备份文件（.bak 是本地备份，不需要上传）
+*.bak
+
+# 截图文件（如果有截图，通常不需要上传）
+*.png
+
+# OS
+Thumbs.db
+.DS_Store
